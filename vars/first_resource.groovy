@@ -1,3 +1,3 @@
 def call(){
-  bat "date"
+  bat "date /T"
 }
